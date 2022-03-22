@@ -1,5 +1,5 @@
 # Programming Project Proposal 1
-A description of the project.
+A description of the project. Enough detail to understand the app. 
 
 ## GUI Mockup #1 (Start Screen)
 
