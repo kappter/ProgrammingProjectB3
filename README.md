@@ -1,5 +1,6 @@
 # Programming Project Proposal 1
 A description of the project. Enough detail to understand the app. 
+Group Members:
 
 ## GUI Mockup #1 (Start Screen)
 
