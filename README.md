@@ -12,7 +12,7 @@ Group Members:
 ![End Screen]()
 
 ## Class Diagram
-![Diagram]()
+![Diagram](https://github.com/kappter/ProgrammingProjectB3/blob/main/images/CD1.jpg?raw=true)
 
 # Programming Project Proposal 2
 A description of the project.
